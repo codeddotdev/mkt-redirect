@@ -1,0 +1,2 @@
+cmake -H. -Bbuild ^  -DCMAKE_TOOLCHAIN_FILE="C:\Users\coded\Downloads\android-ndk-r27d-windows\android-ndk-r27d\build\cmake\android.toolchain.cmake" ^  -DCMAKE_MAKE_PROGRAM="C:\Users\coded\Downloads\android-ndk-r27d-windows\android-ndk-r27d\prebuilt\windows-x86_64\bin\make.exe" ^  -DANDROID_ABI=arm64-v8a ^  -DANDROID_PLATFORM=android-24 ^  -G "MinGW Makefiles"
+cmake --build build

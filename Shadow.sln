@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shadow-Kart-Redir", "Project1\Project1.vcxproj", "{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		CMakeLists.txt = CMakeLists.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Debug|x64.ActiveCfg = Debug|x64
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Debug|x64.Build.0 = Debug|x64
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Debug|x86.ActiveCfg = Debug|Win32
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Debug|x86.Build.0 = Debug|Win32
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Release|x64.ActiveCfg = Release|x64
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Release|x64.Build.0 = Release|x64
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Release|x86.ActiveCfg = Release|Win32
+		{31D9A5EC-8865-42A0-B32A-F3B954D5BC68}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9E557B-4A60-4906-B944-E2E4A77DB4C9}
+	EndGlobalSection
+EndGlobal
