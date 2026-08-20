@@ -3,7 +3,7 @@
 Small C++14 project for redirecting/forwarding logic for Mario Kart Tour. This README covers prerequisites, build notes (native + Android), and where to customize paths and the target IP.
 
 
-## I WILL NOT GIVE SUPPORT ON USAGE - Aswell as this, This should be used as a base, not a final product - if you use it credit me please :)
+## I WILL NOT GIVE SUPPORT ON USAGE - Aswell as this, This should be used as a base (it's shit and not tested), not a final product - if you use it credit me please :)
 
 ## Overview
 
