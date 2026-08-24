@@ -23,12 +23,6 @@ This repository builds a native C++14 binary that implements redirect/forward be
 - CMake (3.16+ recommended)
 - Android NDK (r21+ recommended) if building Android target
 
-## Build (Windows - Visual Studio)
-
-1. Open the solution or project folder in Visual Studio 2022.  
-2. Select configuration (Debug/Release) and platform (x86/x64).  
-3. Build via __Build > Build Solution__.
-
 ## Build (Android - CMake + NDK)
 
 1. Install Android NDK and CMake.  
